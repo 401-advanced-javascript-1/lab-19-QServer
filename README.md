@@ -4,11 +4,11 @@ This lab creates a message server that monitors database events and also links a
 
 ## Links and Resources
 - [Q-Server Github](https://github.com/401-advanced-javascript-1/lab-19-QServer/tree/submission)
-- [Q-Server Heroku](https://github.com/401-advanced-javascript-1/lab-19-logger/tree/working)
+- [Q-Server Heroku](https://quiet-oasis-82303.herokuapp.com)
 - [API-Server Github](https://github.com/401-advanced-javascript-1/lab-19-api-server/tree/working2)
-- [API-Server Heroku](https://github.com/401-advanced-javascript-1/lab-19-logger/tree/working)
+- [API-Server Heroku](https://shielded-harbor-73029.herokuapp.com)
 - [Logger-Server Github](https://github.com/401-advanced-javascript-1/lab-19-logger/tree/working)
-- [Logger-Server Heroku](https://github.com/401-advanced-javascript-1/lab-19-logger/tree/working)
+- [Logger-Server Heroku](https://damp-plains-47550.herokuapp.com)
 - [Travis](https://www.travis-ci.com/401-advanced-javascript-1/lab-1-QServer)
 
 # Modules
